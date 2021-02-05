@@ -1,0 +1,5 @@
+x=input('Input Your First Number : ')
+y=input('Input Your Second Number : ')
+print ('%s = '%x,'%s'%y, ':' ,x==y)
+print ('%s > '%x,'%s'%y, ':' ,x>y)
+print ('%s < '%x,'%s'%y, ':' ,x<y)

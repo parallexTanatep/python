@@ -1,0 +1,11 @@
+'''
+friend=['jan','cream','phu','bam','orm','pee','bas','kong','da','james']
+print(friend)
+print
+'''
+'''
+animal={'cat','dog','rat','pig','ant'}
+animal.add('monkey')
+animal.update(['python','capybara','spider','wombat','penguin'.'crocodile'])
+print(animal)
+'''
